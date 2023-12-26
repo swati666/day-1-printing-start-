@@ -1,0 +1,1 @@
+# Start of the 100 Days of code in Python with simple printing of a string.
